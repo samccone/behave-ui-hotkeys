@@ -39,7 +39,7 @@ NOTES:
  - You can use only one code (f1, 4, a, s, delete, pageup, etc), but as many helper keys (cmd, ctrl, alt, shift) as you would like
  - Codes are case insensitive, F1 will become f1, DELETE will become delete, etc...
  - If you specify a view method that does not exist, it will just call event
- - If you do not want to call a view method pass and empty string as the value, i.e.
+ - If you do not want to call a view method pass an empty string as the value, i.e.
 
 ```
 hotkeys: {
