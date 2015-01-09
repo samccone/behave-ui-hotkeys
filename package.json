@@ -1,0 +1,45 @@
+{
+  "name": "behave-ui-hotkeys",
+  "version": "0.0.1",
+  "description": "A hotkeys marionette behavior",
+  "main": "src/behave-ui-hotkeys.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:behave-ui/behave-ui-hotkeys.git"
+  },
+  "keywords": [
+    "marionette",
+    "backbone",
+    "backbone.marionette",
+    "behave",
+    "behave-ui",
+    "behaviors",
+    "hotkeys"
+  ],
+  "author": "kurtiskemple@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behave-ui/behave-ui-hotkeys/issues"
+  },
+  "homepage": "https://github.com/behave-ui/behave-ui-hotkeys",
+  "dependencies": {
+    "backbone.marionette": ">= 2.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-jasmine": "~0.8.1",
+    "load-grunt-config": "~0.16.0",
+    "browserify": "~5.9.3",
+    "grunt-browserify": "~3.2.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "backbone.marionette": "~2.3.0",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3",
+    "underscore": "~1.7.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
