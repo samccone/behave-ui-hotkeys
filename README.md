@@ -10,7 +10,7 @@ npm install --save behave-ui-hotkeys
 Then just require and use as you would any other behavior:
 
 ```
-var Hotkeys = require('behave-ui-konami'),
+var Hotkeys = require('behave-ui-hotkeys'),
     _ = require('underscore');
 
 var View = Marionette.ItemView.extend({
